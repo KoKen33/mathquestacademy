@@ -12,6 +12,6 @@ https://snack.expo.dev/@k-kustom/mathquest-academy?platform=web
 
 #Developer Notes from Koken33:
 
-Hello Everyone and thank you for using this app.
+Hello Everyone and thank you for viewing this page. This is app is ultimately still a work in progress but it is a project that I am fond of despite any issues with it.
 I made this app in the hopes of helping people find practice in math while also making its learning process more fun. 
 I hope I would be able to achieve that one day by making this app. 
